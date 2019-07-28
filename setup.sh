@@ -16,6 +16,9 @@ sudo snap install kubectl --classic
 # Install Git
 sudo apt install git -y
 
+# Install vscode
+sudo snap install --classic code
+
 # Set up ssh key
 # mkdir ~/.ssh/
 # ssh-keygen -t rsa -b 4096 -C "your email"
