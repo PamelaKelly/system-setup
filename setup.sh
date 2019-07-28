@@ -19,13 +19,4 @@ sudo apt install git -y
 # Install vscode
 sudo snap install --classic code
 
-# Set up ssh key
-# mkdir ~/.ssh/
-# ssh-keygen -t rsa -b 4096 -C "your email"
-# Enter target directory and passphrase when prompted
-# Start the agent in the background
-# eval "$(ssh-agent -s)"
-# Add the ssh key 
-# ssh-add ~/.ssh/id_rsa
-
 
